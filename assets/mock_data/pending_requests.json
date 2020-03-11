@@ -1,0 +1,44 @@
+[
+  {
+    "first_name": "John",
+    "last_name": "Smith",
+    "badge_id": "emt9357",
+    "dpt": "EMT",
+    "unit": 425
+  },
+  {
+    "first_name": "Edwin",
+    "last_name": "Mcclain",
+    "badge_id": "fd4637",
+    "dpt": "FD",
+    "unit": 426
+  },
+  {
+    "first_name": "Tom",
+    "last_name": "Simpson",
+    "badge_id": "ems2511",
+    "dpt": "EMS",
+    "unit": 427
+  },
+  {
+    "first_name": "Irene",
+    "last_name": "Taylor",
+    "badge_id": "emt2278",
+    "dpt": "EMT",
+    "unit": 428
+  },
+  {
+    "first_name": "Alexa",
+    "last_name": "Haas",
+    "badge_id": "emt0432",
+    "dpt": "EMT",
+    "unit": 429
+  },
+  {
+    "first_name": "Will",
+    "last_name": "Smith",
+    "badge_id": "ems0046",
+    "dpt": "EMS",
+    "unit": 430
+  }
+]
