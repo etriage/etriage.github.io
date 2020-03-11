@@ -1,2 +1,2 @@
-# itriage.github.io
+# etriage.github.io
 Patient Tracking &amp; Monitoring System
