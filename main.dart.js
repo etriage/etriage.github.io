@@ -28975,7 +28975,7 @@ if(t.a.a.length===0||u.e.a.a.length===0)this.b.$1("Error:\n Missing username and
 else J.E9(R.iZ(this.c,V.jn),new D.x2(t.a.a,u.e.a.a))},
 $S:0}
 R.a_g.prototype={
-$1:function(a){var u,t,s=null,r=this.b,q=F.bb(r,!1).e,p=U.h8("assets/app_icon_transparent.png",s,F.bb(r,!1).a.a<=768?165:150),o=L.Y("eTriage",s,s,s,s,K.r(r,!1).F.c,C.af),n=L.Y("Tracking & Monitoring Patient Triage",s,s,s,s,K.r(r,!1).F.f,C.af),m=A.ak(s,s,K.r(r,!1).c,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s),l=this.a,k=l.d
+$1:function(a){var u,t,s=null,r=this.b,q=F.bb(r,!1).e,p=U.h8("assets/app_icon_transparent.png",s,F.bb(r,!1).a.a<=768?165:150),o=L.Y("vTriage",s,s,s,s,K.r(r,!1).F.c,C.af),n=L.Y("Tracking & Monitoring Patient Triage",s,s,s,s,K.r(r,!1).F.f,C.af),m=A.ak(s,s,K.r(r,!1).c,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s),l=this.a,k=l.d
 m=E.bZ(!0,k,L.dw(s,s,s,s,s,s,s,!0,C.aX,s,s,s,s,K.r(r,!1).c,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,"Username *",s,s,s,s,s,s,s,s,s),s,s,1,!1,m,C.ap,s)
 u=A.ak(s,s,K.r(r,!1).c,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s)
 t=K.r(r,!1).c
@@ -29177,7 +29177,7 @@ this.aE()},
 D:function(a){var u,t,s,r,q,p=null
 K.r(a,!1).rx
 u=K.r(a,!1).z
-t=L.Y("eTriage Vision",p,p,p,p,K.r(a,!1).F.r,p)
+t=L.Y("vTriage",p,p,p,p,K.r(a,!1).F.r,p)
 s=K.r(a,!1).z
 r=L.c1(C.mx,K.r(a,!1).c,25)
 r=B.fd(K.r(a,!1).z,r,24,new D.Z8(new D.Z4(this,a)),C.aS,C.c1,p)
@@ -30615,7 +30615,7 @@ u.z.u$=null
 u.aE()},
 $aH:function(){return[M.yW]}}
 M.a2z.prototype={
-$0:function(){var u,t,s,r,q,p,o,n,m=null,l=this.a,k=this.b,j=F.bb(k,!1).e,i=U.h8("assets/app_icon_transparent.png",m,F.bb(k,!1).a.a<=768?165:150),h=L.Y("eTriage",m,m,m,m,K.r(k,!1).F.c,C.af),g=L.Y("Emergency Responder Signup",m,m,m,m,K.r(k,!1).F.f,C.af),f=A.ak(m,m,K.r(k,!1).c,m,m,m,m,m,m,m,m,20,m,m,m,m,!0,m,m,m,m,m,m)
+$0:function(){var u,t,s,r,q,p,o,n,m=null,l=this.a,k=this.b,j=F.bb(k,!1).e,i=U.h8("assets/app_icon_transparent.png",m,F.bb(k,!1).a.a<=768?165:150),h=L.Y("vTriage",m,m,m,m,K.r(k,!1).F.c,C.af),g=L.Y("Emergency Responder Signup",m,m,m,m,K.r(k,!1).F.f,C.af),f=A.ak(m,m,K.r(k,!1).c,m,m,m,m,m,m,m,m,20,m,m,m,m,!0,m,m,m,m,m,m)
 f=E.bZ(!0,l.d,L.dw(m,m,m,m,m,m,m,!0,C.aX,m,m,m,m,K.r(k,!1).c,m,m,m,m,!0,m,m,m,m,m,m,m,m,m,m,"First Name *",m,m,m,m,m,m,m,m,m),C.aP,m,1,!1,f,C.bX,new M.a2A())
 u=A.ak(m,m,K.r(k,!1).c,m,m,m,m,m,m,m,m,20,m,m,m,m,!0,m,m,m,m,m,m)
 u=E.bZ(!0,l.e,L.dw(m,m,m,m,m,m,m,!0,C.aX,m,m,m,m,K.r(k,!1).c,m,m,m,m,!0,m,m,m,m,m,m,m,m,m,m,"Last Name *",m,m,m,m,m,m,m,m,m),C.aP,m,1,!1,u,C.bX,new M.a2B())
@@ -31016,7 +31016,7 @@ E.xk.prototype={
 V:function(){return new E.a_F(C.k)}}
 E.a_F.prototype={
 D:function(a){var u=null,t=[N.R],s=new P.an(20,20)
-return B.ha(H.e([new T.a1(C.mk,new T.aX(C.t,u,u,U.h8("assets/app_icon_transparent.png",u,200),u),u),new T.aX(C.t,u,u,L.Y("eTriage",u,u,u,u,K.r(a,!1).F.c,u),u),new T.aX(C.t,u,u,L.Y("Tracking & Monitoring Patient Triage",u,u,u,u,K.r(a,!1).F.e,u),u),new T.a1(C.j3,T.c5(H.e([L.Y("Our Mission",u,u,u,u,K.r(a,!1).F.e,u),L.Y("Our mission is to provide EMS with a robust digital method for locating tagging and tracking patients in mass casualty incidents\n",u,u,u,u,K.r(a,!1).F.r,u)],t),C.L,C.E,C.F),u),U.h8("assets/dashboard.png",u,450),new T.a1(C.j3,T.c5(H.e([L.Y("About Us",u,u,u,u,K.r(a,!1).F.e,u),L.Y("Currently most First Responders use a paper or card system in mass casualty incidents. Obviously, this system presents a lot of problems which is why we were tasked with finding an alternative system\n",u,u,u,u,K.r(a,!1).F.r,u)],t),C.L,C.E,C.F),u),new T.a1(C.tb,D.n9(D.pY(M.aM(C.t,C.oV,u,C.cK,u,u,50,u,u,u,u),C.cL),u,new E.a_J(this,a),new V.K(0,0,0,0),new X.aS(C.p,new K.ap(s,s,s,s)),C.m),u)],t),u,C.l)},
+return B.ha(H.e([new T.a1(C.mk,new T.aX(C.t,u,u,U.h8("assets/app_icon_transparent.png",u,200),u),u),new T.aX(C.t,u,u,L.Y("vTriage",u,u,u,u,K.r(a,!1).F.c,u),u),new T.aX(C.t,u,u,L.Y("Tracking & Monitoring Patient Triage",u,u,u,u,K.r(a,!1).F.e,u),u),new T.a1(C.j3,T.c5(H.e([L.Y("Our Mission",u,u,u,u,K.r(a,!1).F.e,u),L.Y("Our mission is to provide EMS with a robust digital method for locating tagging and tracking patients in mass casualty incidents\n",u,u,u,u,K.r(a,!1).F.r,u)],t),C.L,C.E,C.F),u),U.h8("assets/dashboard.png",u,450),new T.a1(C.j3,T.c5(H.e([L.Y("About Us",u,u,u,u,K.r(a,!1).F.e,u),L.Y("Currently most First Responders use a paper or card system in mass casualty incidents. Obviously, this system presents a lot of problems which is why we were tasked with finding an alternative system\n",u,u,u,u,K.r(a,!1).F.r,u)],t),C.L,C.E,C.F),u),new T.a1(C.tb,D.n9(D.pY(M.aM(C.t,C.oV,u,C.cK,u,u,50,u,u,u,u),C.cL),u,new E.a_J(this,a),new V.K(0,0,0,0),new X.aS(C.p,new K.ap(s,s,s,s)),C.m),u)],t),u,C.l)},
 $aH:function(){return[E.xk]}}
 E.a_J.prototype={
 $0:function(){var u=V.xc(new E.a_H(this.a),new K.eg("/login",!1,null),null),t=this.b.bx(K.bf)
@@ -31029,7 +31029,7 @@ E.zL.prototype={
 V:function(){return new E.a4I(C.k)}}
 E.a4I.prototype={
 D:function(a){var u=null,t=[N.R],s=new P.an(20,20)
-return T.dT(H.e([new T.bP(3,C.Q,new T.a1(C.fn,T.c5(H.e([new T.a1(C.mk,new T.aX(C.t,u,u,U.h8("assets/app_icon_transparent.png",u,200),u),u),new T.aX(C.t,u,u,L.Y("eTriage",u,u,u,u,K.r(a,!1).F.c,u),u),new T.aX(C.t,u,u,L.Y("Tracking & Monitoring Patient Triage",u,u,u,u,K.r(a,!1).F.e,u),u),new T.a1(C.j3,T.c5(H.e([L.Y("Our Mission",u,u,u,u,K.r(a,!1).F.e,u),L.Y("Our mission is to provide EMS with a robust digital method for locating tagging and tracking patients in mass casualty incidents\n",u,u,u,u,K.r(a,!1).F.r,u)],t),C.L,C.E,C.F),u),new T.a1(C.ti,D.n9(D.pY(M.aM(C.t,C.oV,u,C.cK,u,u,50,u,u,u,u),C.cL),u,new E.a4K(this,a),new V.K(0,0,0,0),new X.aS(C.p,new K.ap(s,s,s,s)),C.m),u)],t),C.L,C.ez,C.F),u),u),new T.bP(3,C.Q,new T.a1(C.fn,T.c5(H.e([U.h8("assets/dashboard.png",u,450),new T.ch(u,30,u,u),L.Y("About Us",u,u,u,u,K.r(a,!1).F.e,u),L.Y("Currently most First Responders use a paper or card system in mass casualty incidents. Obviously, this system presents a lot of problems which is why we were tasked with finding an alternative system\n",u,u,u,u,K.r(a,!1).F.r,u)],t),C.L,C.ez,C.F),u),u)],t),C.L,C.E,C.F)},
+return T.dT(H.e([new T.bP(3,C.Q,new T.a1(C.fn,T.c5(H.e([new T.a1(C.mk,new T.aX(C.t,u,u,U.h8("assets/app_icon_transparent.png",u,200),u),u),new T.aX(C.t,u,u,L.Y("vTriage",u,u,u,u,K.r(a,!1).F.c,u),u),new T.aX(C.t,u,u,L.Y("Tracking & Monitoring Patient Triage",u,u,u,u,K.r(a,!1).F.e,u),u),new T.a1(C.j3,T.c5(H.e([L.Y("Our Mission",u,u,u,u,K.r(a,!1).F.e,u),L.Y("Our mission is to provide EMS with a robust digital method for locating tagging and tracking patients in mass casualty incidents\n",u,u,u,u,K.r(a,!1).F.r,u)],t),C.L,C.E,C.F),u),new T.a1(C.ti,D.n9(D.pY(M.aM(C.t,C.oV,u,C.cK,u,u,50,u,u,u,u),C.cL),u,new E.a4K(this,a),new V.K(0,0,0,0),new X.aS(C.p,new K.ap(s,s,s,s)),C.m),u)],t),C.L,C.ez,C.F),u),u),new T.bP(3,C.Q,new T.a1(C.fn,T.c5(H.e([U.h8("assets/dashboard.png",u,450),new T.ch(u,30,u,u),L.Y("About Us",u,u,u,u,K.r(a,!1).F.e,u),L.Y("Currently most First Responders use a paper or card system in mass casualty incidents. Obviously, this system presents a lot of problems which is why we were tasked with finding an alternative system\n",u,u,u,u,K.r(a,!1).F.r,u)],t),C.L,C.ez,C.F),u),u)],t),C.L,C.E,C.F)},
 $aH:function(){return[E.zL]}}
 E.a4K.prototype={
 $0:function(){var u,t=null,s=this.b,r=K.bf,q=s.bx(r)
@@ -60325,7 +60325,7 @@ C.AV=new U.zu("TextWidthBasis.longestLine")
 C.Ad=new A.W(!0,C.m,null,null,null,null,16,C.a2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 C.oU=new L.iw("OK",C.Ad,C.af,null,null,null,null,null)
 C.oS=new A.W(!0,C.m,null,null,null,null,20,C.a2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-C.oV=new L.iw("eTriage App",C.oS,C.af,null,null,null,null,null)
+C.oV=new L.iw("vTriage App",C.oS,C.af,null,null,null,null,null)
 C.kz=new A.W(!0,C.m,null,null,null,null,25,C.a2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 C.AW=new L.iw("Signup",C.kz,C.af,null,null,null,null,null)
 C.AX=new L.iw("Reset Password",C.kz,C.af,null,null,null,null,null)
