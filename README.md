@@ -3,4 +3,4 @@
 
 Patient Tracking &amp; Monitoring System
 
-WEB LINK: [https://etriage.github.io/#/]
+WEB LINK: [https://vtriage.github.io/#/]
