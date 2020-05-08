@@ -2,13 +2,18 @@
   "name": "vTriage | Calming Catastrophe by Tracking Patient Triage",
   "short_name": "vTriage",
   "start_url": ".",
-  "display": "minimal-ui",
+  "display": "standalone",
   "background_color": "#028090",
   "theme_color": "#028090",
   "description": "vTriage allows first responders to track and monitor patient triage after mass-casualties with higher efficiency and patient data security. vTriage is a continued project from Tech to Protect 2019 challenge",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,
   "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
     {
       "src": "icons/icon-192.png",
       "sizes": "192x192",
