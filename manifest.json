@@ -2,7 +2,7 @@
   "name": "vTriage | Calming Catastrophe by Tracking Patient Triage",
   "short_name": "vTriage",
   "start_url": ".",
-  "display": "standalone",
+  "display": "minimal-ui",
   "background_color": "#028090",
   "theme_color": "#028090",
   "description": "vTriage allows first responders to track and monitor patient triage after mass-casualties with higher efficiency and patient data security",
