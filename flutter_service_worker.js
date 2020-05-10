@@ -1,16 +1,17 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "favicon.ico": "b2903008b60d935d07163a77267d6611",
-"index.html": "3b517c5fbf12dcfecae98c1b7a9207db",
-"/": "3b517c5fbf12dcfecae98c1b7a9207db",
-"main.dart.js": "c222d71957ed09403bdadc2e2bcfd159",
+  "favicon.ico": "4b1f8c5a218fbbb83c12ad746506d59d",
+"index.html": "6990ff2f2d2c3ff210b192a0c9838c90",
+"/": "6990ff2f2d2c3ff210b192a0c9838c90",
+"main.dart.js": "267e4f95b4706156900af272a4fef1e6",
 "icons/favicon-16x16.png": "85f6332e0e5e91849f13d209fd676912",
+"icons/icon-192.png": "67446911a3bd612440aea3eb90c55f71",
+"icons/icon-512.png": "fc0c8193e875a10265c2d767dd19e0d6",
 "icons/favicon-32x32.png": "4121135c7997b50bb1d71baed7377840",
-"manifest.json": "0d8228943a61a04b975875c57f444425",
-"assets/mock_data/pending_requests.json": "2c82adc0647ca842c5d8dbcd5f9431ab",
+"manifest.json": "af540dfadb9d31843d63949f70ff8870",
 "assets/LICENSE": "c780e506da40637f412c05684ef7c81e",
-"assets/AssetManifest.json": "f228d837a3765452ba2a6736cbfbf3fa",
+"assets/AssetManifest.json": "6d98dea8c036cb1dd249d1bc7114a191",
 "assets/map_styles/light_map_style.json": "cede92049fbf4bcb6d3988827f1499f6",
 "assets/map_styles/dark_map_style.json": "91baa72460637ca5cd3dc3864ff8fd62",
 "assets/FontManifest.json": "c2b0807cc71924b1aef401715d587ad5",
@@ -27,10 +28,8 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "5a37ae808cf9f652198acde612b5328d",
 "assets/packages/humanitarian_icons/fonts/Humanitarian-Icons-v02.ttf": "d78c6eb57c26e8732cd1a447f10d52f8",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/assets/favicon-16x16.png": "85f6332e0e5e91849f13d209fd676912",
 "assets/assets/app_icon_transparent.png": "00a4f989b10d77c95a555a464c70f7aa",
 "assets/assets/first_responders.png": "574ddfeaf8f3886c741a321ac9c73321",
-"assets/assets/dashboard.png": "6ab29ce504f7c8cbb90f0ab90ce701c9",
 "assets/assets/progressive_apps.png": "25bbb26c678240de4bc63ab0099b6a0e",
 "assets/assets/ambulance.png": "c70d96f9b31969ae69d4cbf0bb4ff94d",
 "assets/assets/app_icon.png": "38dc2fe89bbd920a36933b2de8d418c3",
@@ -38,7 +37,6 @@ const RESOURCES = {
 "assets/assets/triage_tag.png": "ac2a78afb2da829adb2cf1a93bb9781f",
 "assets/assets/map_features.png": "c605a5b2a5386596772cd46c3579d7b6",
 "assets/assets/instagram_icon.png": "52d67c4ce38fa2dfcf7a543951389393",
-"assets/assets/icon-192.png": "67446911a3bd612440aea3eb90c55f71",
 "assets/assets/support_work.png": "615d83fc8b671bf3e73acae39a2448c5",
 "assets/assets/T1_logo.png": "ea669a9b7052cefa9156fd2179af614e",
 "assets/assets/linkedin_icon.png": "3f887835db9bf4de28cd773f85bd3bbe",
@@ -60,9 +58,7 @@ const RESOURCES = {
 "assets/assets/github_icon.png": "eadcf7130c7154865a71cd50809b721c",
 "assets/assets/twitter_icon.png": "4d41d34cc2a7f9c9b91c2f83fd6b2ed6",
 "assets/assets/advanced_tech.png": "a7994f812446174958cafbf68efc319a",
-"assets/assets/biometrics.png": "35b6b9cd2e50b9a06ea13a52022587b3",
-"assets/assets/icon-512.png": "fc0c8193e875a10265c2d767dd19e0d6",
-"assets/assets/favicon-32x32.png": "4121135c7997b50bb1d71baed7377840"
+"assets/assets/biometrics.png": "35b6b9cd2e50b9a06ea13a52022587b3"
 };
 
 self.addEventListener('activate', function (event) {

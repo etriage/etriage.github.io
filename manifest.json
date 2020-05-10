@@ -5,7 +5,7 @@
   "display": "standalone",
   "background_color": "#028090",
   "theme_color": "#028090",
-  "description": "vTriage allows first responders to track and monitor patient triage after mass-casualties with higher efficiency and patient data security. vTriage is a continued project from Tech to Protect 2019 challenge",
+  "description": "vTriage allows first responders to track and monitor patient triage after mass-casualties with higher efficiency and patient data security",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,
   "icons": [

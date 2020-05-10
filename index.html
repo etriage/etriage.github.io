@@ -14,13 +14,17 @@
   <meta name="classification" content="Product Webpage">
   <meta name="coverage" content="Worldwide">
   <meta name="distribution" content="Global">
-  <meta name="rating" content="General">
+  <meta name="litmsProfileName" content="homepage-guest-frontend">
   <meta property="og:title" content="vTriage | Calming Catastrophe by Tracking Patient Triage" />
+  <meta name="og:description" content="vTriage allows first responders to track and monitor patient triage after mass-casualties with higher efficiency and patient data security. vTriage is a continued project from Tech to Protect 2019 challenge">
   <meta name="og:type" content="Product Webpage"/>
   <meta name="og:site_name" content="vTriage"/>
   <meta name="og:type" content="website"/>
   <meta property="og:image" content="https://vtriage.github.io/icons/icon-192.png" />
+  <meta property="og:url" content="https://vtriage.github.io/">
   <meta name="twitter:image:src" content="https://vtriage.github.io/icons/icon-192.png" />
+  <meta name="robots" content="index,follow" />
+  <meta name="linkedin:pageTag" content="basic">
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -43,16 +47,16 @@
   </style>
 </head>
 <body>
-  <!-- This script installs service_worker.js to provide PWA functionality to
-     application. For more information, see:
-     https://developers.google.com/web/fundamentals/primers/service-workers -->
-  <script>
+<!-- This script installs service_worker.js to provide PWA functionality to
+   application. For more information, see:
+   https://developers.google.com/web/fundamentals/primers/service-workers -->
+<script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function () {
         navigator.serviceWorker.register('/flutter_service_worker.js');
       });
     }
   </script>
-  <script src="main.dart.js" type="application/javascript"></script>
+<script src="main.dart.js" type="application/javascript"></script>
 </body>
 </html>
