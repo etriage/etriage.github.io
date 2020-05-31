@@ -14408,7 +14408,7 @@ H.JP.prototype={}
 H.Iw.prototype={
 A4:function(a,b){C.bh.eK(window,"popstate",b)
 return new H.Iy(this,b)},
-rE:function(a){return a.length===0?H.a(window.location.pathname)+H.a(window.location.search):"#"+a},
+rE:function(a){return a.length===0?H.a(window.location.pathname)+H.a(window.location.search):""+a},
 pr:function(){var t={},s=new P.I($.G,u.U)
 t.a=null
 t.a=this.A4(0,new H.Ix(t,new P.aP(s,u.h)))
